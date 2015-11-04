@@ -1,27 +1,37 @@
-## Laravel PHP Framework
+# Laravel学习
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Laravel学习的笔记和搜集的资料
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## 目录
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+[路由与VC](routes.md)
+[Blade](blade.md)
+[Laravel体系结构](architecture.md)
+[常用指令](command.md)
 
-## Official Documentation
+### laravist 学习资料
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+- [Laravel教程https://laravist.com/article/9~21](https://laravist.com/article/9)
+- [laravist视频教程](https://laravist.com/)
+- [给PHP开发者的九条建议](https://laravist.com/articles#)
 
-## Contributing
+### 入门教程
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+- [入门教程](http://www.golaravel.com/post/laravel-5-getting-started-part-1/)
 
-## Security Vulnerabilities
+- [资料](http://www.cnblogs.com/huangbx/p/Laravel_1.html)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+http://www.csdn.net/article/2015-10-16/2825937
 
-### License
+http://www.fwolf.com/blog/post/320
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+http://netkiller.github.io/journal/php.daemon.html
+
+http://my.oschina.net/neochen/blog/519156
+
+https://phphub.org/topics/1302
+
+https://laravist.com/article/10
+
+php artisan serve
+然后访问localhost:8000，就可以看到Laravel了
