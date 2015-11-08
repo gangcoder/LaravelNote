@@ -64,4 +64,5 @@ return redirect('/');    # 页面跳转至首页
 ```
 
 
-[参考](https://phphub.org/topics/1325)
+- [issue 关于Request命名空间](https://laravist.com/discussion/117)
+- [参考](https://phphub.org/topics/1325)

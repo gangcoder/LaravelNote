@@ -9,4 +9,4 @@
 - `php artisan migrate` 应用migration文件 up() 方法
 - `php artisan migrate:rollback` 应用migration文件 down()方法
 - `php artisan tinker` 启动tinker
-- 
+- `php artisan make:request StoreArticleRequest` 生成表单验证类

@@ -9,6 +9,7 @@ Laravel学习的笔记和搜集的资料
 1. [4 数据库与Eloquent](4database&eloquent.md)
 1. [5 MVC的基本流程](5mvc.md)
 2. [6 表单处理](6forms.md)
+3. [7 表单验证](7formvalidation.md)
 1. [Laravel体系结构](architecture.md)
 1. [常用指令](command.md)
 
