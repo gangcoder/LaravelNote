@@ -11,6 +11,7 @@ Laravel学习的笔记和搜集的资料
 1. [MVC的基本流程](5mvc.md)
 1. [表单处理](6forms.md)
 1. [表单验证](7formvalidation.md)
+2. [queryScope&setAttribute](8queryscope.md)
 1. [Laravel体系结构](architecture.md)
 1. [常用指令](command.md)
 
